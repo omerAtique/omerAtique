@@ -47,6 +47,27 @@ I'm a dedicated student pursuing a bachelor's degree in Computer Science at one 
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   
 </div>
+<hr class="solid">
+
+<div id="header3" align="left">
+  <br>
+  <p>I have worked on the following AI projects:</p>
+   <ul>
+     <li><a href="https://github.com/omerAtique/SuperResolution-using-HRI-MSI">Super Resolution using HRI MSI data and encoder decoder model</li>
+     <li><a href="https://github.com/omerAtique/Cifar_10_CNN_classifier">Cifar-10 CNN classifier</li>
+     <li><a href="https://github.com/omerAtique/Cat-Dog-classification-model-using-MobileNet">Cat dog classifier</li>
+     <li><a href="https://github.com/omerAtique/Polynomial-coefficient-prediction-using-gradient-descent">Polynomial Coefficient prediction using gradient descent from scratch</li>
+     <li><a href="https://github.com/omerAtique/Travelling-salesman-problem-using-genetic-algorithm">Travelling sales man problem using genetic algorithm</li>
+     <li><a href="https://github.com/omerAtique/Clustering-techniques-using-ML">Clustering techniques using ML</li>
+     <li><a href="https://github.com/omerAtique/PCA-using-SVD-on-Landsat-imagery">Resolution Reduction using SDA</li>
+     <li><a href="https://github.com/omerAtique/spaceship-titanic">Spaceship titanic survival prediciton model</li>
+     <li><a href="https://github.com/omerAtique/Digit-recognizer-MINIST">MINIST digit recognizer model</li>
+     <li><a href="https://github.com/omerAtique/House-Prices-Prediction">House prices prediction model</li>
+     <li><a href="https://github.com/omerAtique/Titani-survivors">Titanic survivors predcition model</li>
+  </ul> 
+</div>
+
+<hr class="solid">
 
 <div id="header4" align="left">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
