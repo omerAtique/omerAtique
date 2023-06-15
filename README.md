@@ -53,6 +53,7 @@ I'm a dedicated student pursuing a bachelor's degree in Computer Science at one 
   <br>
   <p>I have worked on the following AI projects:</p>
    <ul>
+     <li><a href="https://github.com/omerAtique/Extracting-and-Visualizing-Stock-Data-Using-Webscrapping-.git">Extracting and Visualizing Stock Data using Webscrapping</li>
      <li><a href="https://github.com/omerAtique/Flower_Classification_using_MobileNet">Flower Type Classification</li>
      <li><a href="https://github.com/omerAtique/SuperResolution-using-HRI-MSI">Super Resolution using HRI MSI data and encoder decoder model</li>
      <li><a href="https://github.com/omerAtique/Cifar_10_CNN_classifier">Cifar-10 CNN classifier</li>
