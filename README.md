@@ -51,7 +51,7 @@ I'm a dedicated student pursuing a bachelor's degree in Computer Science at one 
 
 <div id="header3" align="left">
   <br>
-  <p>I have worked on the following AI projects:</p>
+  <p>I have worked on the following AI and CV projects:</p>
    <ul>
      <li><a href="https://github.com/omerAtique/Football-player-detection-using-YOLOv8">Football Player detection in both Images and Video using YOLOv8</li>
      <li><a href="https://github.com/omerAtique/Road-sign-detection-using-YOLOv8">Road Sign detection using YOLOv8</li>
