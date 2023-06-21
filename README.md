@@ -53,6 +53,8 @@ I'm a dedicated student pursuing a bachelor's degree in Computer Science at one 
   <br>
   <p>I have worked on the following AI projects:</p>
    <ul>
+     <li><a href="https://github.com/omerAtique/Football-player-detection-using-YOLOv8">Football Player detection in both Images and Video using YOLOv8</li>
+     <li><a href="https://github.com/omerAtique/Road-sign-detection-using-YOLOv8">Road Sign detection using YOLOv8</li>
      <li><a href="https://github.com/omerAtique/Extracting-and-Visualizing-Stock-Data-Using-Webscrapping-.git">Extracting and Visualizing Stock Data using Webscrapping</li>
      <li><a href="https://github.com/omerAtique/Flower_Classification_using_MobileNet">Flower Type Classification</li>
      <li><a href="https://github.com/omerAtique/SuperResolution-using-HRI-MSI">Super Resolution using HRI MSI data and encoder decoder model</li>
