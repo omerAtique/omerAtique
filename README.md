@@ -53,6 +53,10 @@ I'm a dedicated student pursuing a bachelor's degree in Computer Science at one 
   <br>
   <p>I have worked on the following AI and CV projects:</p>
    <ul>
+     <li><a href="https://github.com/omerAtique/Article_summarization_flutter_app-">Article Summarization App using Prompt Engineering and flutter</li>
+     <li><a href="https://github.com/omerAtique/ChatGPT_prompt_engineering_chatbot_with_gradio_frontend">ChatGPT Prompt Engineering Chatbot With Gradio Frontend</li>
+     <li><a href="https://github.com/omerAtique/ChatGPT_PDF_chatbot">ChatGPT Prompt Engineering PDF Chatbot using Lang Chain</li>
+     <li><a href="https://github.com/omerAtique/Twitter_sentiment_analysis_Using_LSTMs">Twitter Sentiment Analysis Using LSTM</li>
      <li><a href="https://github.com/omerAtique/Football-player-detection-using-YOLOv8">Football Player detection in both Images and Video using YOLOv8</li>
      <li><a href="https://github.com/omerAtique/Road-sign-detection-using-YOLOv8">Road Sign detection using YOLOv8</li>
      <li><a href="https://github.com/omerAtique/Extracting-and-Visualizing-Stock-Data-Using-Webscrapping-.git">Extracting and Visualizing Stock Data using Webscrapping</li>
